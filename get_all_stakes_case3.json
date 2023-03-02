@@ -1,0 +1,20 @@
+{
+    "all_stake_list": [
+        {
+            "timestamp_started": "1677573587126",
+            "timestamp_ended": "1677573598385",
+            "stake_product_code": "ame-stk-0011",
+            "stake_apr_rate": 5.0,
+            "reward_period_days": 1,
+            "lock_period_days": 0,
+            "stake_amount": 1.4,
+            "stake_tx_hash": "0x3da0e55cf0d815870c1d3ca2c3831299a6d8cd4dc3c89922bf1aff2af7fdd9bc",
+            "unstake_tx_hash": "",
+            "staking_since_days": 0,
+            "estimated_staking_reward": 0.0,
+            "assured_staking_reward": 0.0,
+            "total_unstake_reward_amount": 1.4,
+            "can_unstake": false
+        }
+    ]
+}
